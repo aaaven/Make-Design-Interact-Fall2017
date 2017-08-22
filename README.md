@@ -13,53 +13,52 @@
 - Studio of New Media Program
 
 ## Content
+----
+### *Creative Programming Basics*
+----
+####01. Introduction
+* Class Overview
+* [Intro to Processing &Drawing]()
 
-### **Creative Programming Basics**
+####02. Animation & Variables
+* tba
 
-	1. Introduction
-	- Class Overview
-	- Intro to Processing &Drawing
-	
-#
-	2. Animation & Variables
-	
-#
-	3. Conditionals, Iteration& Functions
 
-#
-	4. Interaction Design& Mouse, Keyboard Interaction
+#### 03. Conditionals, Iteration& Functions
 
-### **Advanced Creative Programming**
 
-	5.Arrays
-#
-	6.Object-oriented Programming
+#### 04. Interaction Design& Mouse, Keyboard Interaction
 
-#
-	7.Audio, Image& Video
+----
+### *Advanced Creative Programming*
+----
 
-#
-	8.Camera& Motion Tracking
+#### 05.Arrays
 
-### **Physical Computing Basics**
-	9.Micro Controllers & Arduino
-	-
-	-
-#
-	10.Digital & Analog Inputs & Outputs
+#### 06.Object-oriented Programming
 
-#
-	11.Physical Interaction, Sensors & Actuators
+#### 07.Audio, Image& Video
 
-#
-	12.Serial Communication
+#### 08.Camera& Motion Tracking
 
+----
+### *Physical Computing Basics*
+----
+#### 09. Micro Controllers & Arduino
+
+#### 10. Digital & Analog Inputs & Outputs
+
+#### 11. Physical Interaction, Sensors & Actuators
+
+#### 12. Serial Communication
+
+----
 ### **Final Project Workshops**
+----
+#### 13. Project Plan Session
 
-	13. Project Plan Session
-#
-	14.Project Development I
-#
-	15.Project Development II
-#
-	16.Project Presentation
+#### 14. Project Development A
+
+#### 15. Project Development B
+
+#### 16. Project Presentation
