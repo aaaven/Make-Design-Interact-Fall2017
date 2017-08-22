@@ -12,37 +12,54 @@
 
 - Studio of New Media Program
 
-## Creative Programming Basics: Introduction
-- Class Overview
+## Content
 
-- Intro to Processing &Drawing
+### **Creative Programming Basics**
 
-## Creative Programming Basics: Animation & Variables
+	1. Introduction
+	- Class Overview
+	- Intro to Processing &Drawing
+	
+#
+	2. Animation & Variables
+	
+#
+	3. Conditionals, Iteration& Functions
 
-## Creative Programming Basics: Conditionals, Iteration& Functions
+#
+	4. Interaction Design& Mouse, Keyboard Interaction
 
-## Creative Programming Basics: Interaction Design& Mouse, Keyboard Interaction
+### **Advanced Creative Programming**
 
-## Advanced Creative Programming: Arrays
+	5.Arrays
+#
+	6.Object-oriented Programming
 
-## Advanced Creative Programming: Object-oriented Programming
+#
+	7.Audio, Image& Video
 
-## Advanced Creative Programming: Audio, Image& Video
+#
+	8.Camera& Motion Tracking
 
-## Advanced Creative Programming: Camera& Motion Tracking
+### **Physical Computing Basics**
+	9.Micro Controllers & Arduino
+	-
+	-
+#
+	10.Digital & Analog Inputs & Outputs
 
-## Physical Computing Basics: Micro Controllers & Arduino
+#
+	11.Physical Interaction, Sensors & Actuators
 
-## Physical Computing Basics: Digital & Analog Inputs & Outputs
+#
+	12.Serial Communication
 
-## Physical Computing Basics: Physical Interaction, Sensors & Actuators
+### **Final Project Workshops**
 
-## Physical Computing Basics: Serial Communication
-
-## Project Plan Session
-
-## Project Development A
-
-## Project Development B
-
-## Project Development C
+	13. Project Plan Session
+#
+	14.Project Development I
+#
+	15.Project Development II
+#
+	16.Project Presentation
