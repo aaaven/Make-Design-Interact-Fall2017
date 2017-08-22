@@ -16,11 +16,11 @@
 ----
 ### *Creative Programming Basics*
 ----
-####01. Introduction
+#### 01. Introduction
 * Class Overview
 * [Intro to Processing &Drawing]()
 
-####02. Animation & Variables
+#### 02. Animation & Variables
 * tba
 
 
