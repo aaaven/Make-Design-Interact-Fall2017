@@ -2,7 +2,7 @@
 
 ###### @上海工艺美院，WPP学院，新媒体系
 
-###### @ New Media Program, WPP school. Shanghai Art and Design Academy
+###### @ New Media Program, [WPP School of Marketing and Communications](http://www.wppschool.com/), [Shanghai Art and Design Academy](http://www.sada.edu.cn/webDisplay/ESite/English/index.jsp)
 
 
 ## Key Info
