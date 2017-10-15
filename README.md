@@ -165,7 +165,7 @@
 ## Chapter 02: Advanced Creative Programming
 ## 第二章：创意编程进阶训练
 
-### 01.Arrays
+### 01.Arrays  数组
 #### *01.1* Array 数组
 * 数组 | ARRAYS
 * 声明&初始化 | ARRAY DECLARATION & INITIALIZATION
@@ -203,7 +203,7 @@
 * Processing声音处理 | AUDIO IN PROCESSING
 * 声音方法 | SOUND METHOD
 
-#### *03.02* Minim Libtrary 第三方库Minim
+#### *03.02* Minim Library 第三方库Minim
 * 第三方库Minim | MINIM LIBRARY
 * AudioPlayer类 | AUDIOPLAYER CLASS
 * 其他类 | OTHER CLASSES
