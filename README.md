@@ -195,10 +195,33 @@
 
 ### 03.Audio, Image, Video 声音，图像，视频
 #### *03.01* Audio 声音
+* 声音 | AUDIO
+* 声音波形 | AUDIO WAVEFORMS
+* 波形 | WAVEFORMS
+* 傅立叶转换 | FOURIER TRANSFORM
+* 频率&振幅 | FREQUENCY & AMPLITUDE
+* Processing声音处理 | AUDIO IN PROCESSING
+* 声音方法 | SOUND METHOD
 
 #### *03.02* Minim Libtrary 第三方库Minim
-#### *03.03* Images 图像
-#### *03.04* PImage Class Methods PImage 方法
+* 第三方库Minim | MINIM LIBRARY
+* AudioPlayer类 | AUDIOPLAYER CLASS
+* 其他类 | OTHER CLASSES
+
+#### *03.03* Images& PImage Class Methods 图像&PImage类方法
+* PImage 类 | PIMAGE CLASS
+* 新建 PImage | PIMAGE INSTANTIATION
+* 加载 &显示图片 | LOADING & DISPLAYING IMAGES
+* 异步加载图片 | ASYNCHRONOUS LOADING OF IMAGES
+* PImage类方法 | PIMAGE CLASS METHODS
+* 缩放 | resize()
+* 复制 | copy()
+* 着色 | tint()
+* 蒙板 | mask()
+* 滤镜 | filter()
+* 混合 | blend()
+* 保存 | save()
+* 保存帧 | saveFrame()
 
 ### 04.Camera Capture &Computer Vision 摄像头捕捉 &计算机视觉
 
@@ -212,7 +235,6 @@
 ### 03. Physical Interaction, Sensors & Actuators
 
 ### 04. Serial Communication
-
 
 ## Chapter 04: Project Workshops
 ## 第四章：课程项目工作营
