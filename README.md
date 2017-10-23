@@ -165,7 +165,7 @@
 ## Chapter 02: Advanced Creative Programming
 ## 第二章：创意编程进阶训练
 
-### 01.Arrays  数组
+### 01. Arrays & ArrayLists 数组&列表
 #### *01.1* Array 数组
 * 数组 | ARRAYS
 * 声明&初始化 | ARRAY DECLARATION & INITIALIZATION
