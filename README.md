@@ -223,6 +223,22 @@
 * 保存 | save()
 * 保存帧 | saveFrame()
 
+#### *03.04* Pixels 像素
+* 像素 | PIXELS
+* PImage& 像素 | PIMAGE& PIXELS
+* 像素&颜色函数 | PIXELS & COLOR FUNCTIONS
+* Pixels[]  数组 | PIXELS[ ] ARRAY
+* 使用Pixels[]数组 | USE PIXELS[ ] ARRAY
+* 像素*像素 | PIXEL BY PIXEL
+* 生成位图 | PROGRAMMATIC RASTER GRAPHICS
+
+#### *03.05* Video 视频
+* 视频 | VIDEO
+* 安装视频库 | INSTALL VIDEO LIBRARY
+* 视频库 | VIDEO LIBRARY
+* Movie类 | MOVIE CLASS
+* Movie类方法 | MOVIE CLASS METHOD
+
 ### 04.Camera Capture &Computer Vision 摄像头捕捉 &计算机视觉
 
 ## Chapter 03: Physical Computing Basics
