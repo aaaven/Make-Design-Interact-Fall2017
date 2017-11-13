@@ -240,6 +240,23 @@
 * Movie类方法 | MOVIE CLASS METHOD
 
 ### 04.Camera Capture &Computer Vision 摄像头捕捉 &计算机视觉
+#### *04.01* Capture Live Video 实时数据采集
+* Capture类 | CAPTURE CLASS
+* Capture类方法 | CAPTURE CLASS METHODS
+
+#### *04.02* Computer Vision& Open CV 计算机视觉&OpenCV
+* 计算机视觉 | COMPUTER VISION
+* Open CV库 | OPEN CV
+* Open CV for Processing 库 | OPENCV FOR PROCESSING LIBRARY
+
+#### *04.03* Face Detection 人脸检测
+* 人脸识别 | FACE RECOGNITION
+* FaceOSC软件 | FACEOSC
+* OSC协议 | OPEN SOUND CONTROL
+
+#### *04.04* 3D Sensing& Leap Motion Leap Motion手势捕捉
+* LEAP MOTION
+* LeapMotion环境安装 | LEAPMOTION INSTALLTION
 
 ## Chapter 03: Physical Computing Basics
 ## 第三章：交互编程基础
