@@ -261,8 +261,91 @@
 ## Chapter 03: Physical Computing Basics
 ## 第三章：交互编程基础
 
-### 01. Micro Controllers & Arduino
+### 01. Micro Controllers& Arduino 微控制器& Arduino
+#### *01.01* ELECTRICITY 电学原理
+* 电｜ELECTRICITY
+* 电流｜CURRENT
+* 直流VS. 交流 | DIRECT VS. ALTERNATING CURRENT
+* 电流战争｜BATTLE OF CURRENTS
+* 变压器｜TRANSFORMER
+* 电压｜VOLTAGE
+* 电压标准｜VOLTAGE STANDARDS
+* 导电性｜CONDUCTANCE
+* 电阻值｜RESISTANCE
+* 绝缘体｜INSULATORS
+* 欧姆定律｜OHM’S LAW
+* 瓦特｜WATT
 
+#### *01.02* ELECTRICAL COMPONENTS 电子元器件
+* 极性｜POLARITY (POLARIZED VS. UNPOLARIZED)
+* 导线｜WIRE
+* 电阻｜RESISTORS
+* 可变电阻｜VARIABLE RESISTORS
+* 二极管｜DIODES
+* 发光二极管｜LIGHT EMITTING DIODES (LEDS)
+* 电容｜CAPACITORS
+* 开关｜SWITCHES
+* 晶体管&继电器｜TRANSISTORS & RELAYS
+* 集成电路IC｜INTEGRATED CIRCUITS
+* 面包板｜SOLDERLESS BREADBOARD
+* 万用表｜MULTIMETER
+
+#### *01.03* CIRCUITS 电路
+* 电路｜CIRCUIT
+* 荷载｜LOAD
+* 短路｜SHORT CIRCUIT
+* 接地｜GROUND
+* 技术术语｜CIRCUIT TERMINOLOGY
+* 电路图｜CIRCUIT DIAGRAMS
+* 电子元件符号 | CIRCUIT DIAGRAM SYMBOLS
+
+#### *01.04*  DOCUMENTATION 记录
+* 做记录｜DOCUMENTATION
+* WHAT IF YOU DO NOT? 
+* 记录要点｜DOCUMENTATION TIPS
+
+#### *01.05* Microcontrollers 微控制器
+* 计算机 | COMPUTER
+* 微控制器｜MICROCONTROLLER
+* 硬件｜HARDWARE
+* 微控制器构成｜MICROCONTROLLER PARTS
+* 中央处理器｜CENTRAL PROCESSING UNIT
+* 时钟发生器｜CLOCK GENERATOR
+* 内存｜MEMORY
+* 通用型输入输出引脚｜GENERAL PURPOSE INPUT/OUTPUT PINS
+* 模拟信号｜ANALOG
+* 数字信号｜DIGITAL
+* 模拟数字转换器｜ANALOG-TO-DIGITAL CONVERTER
+* 数字模拟转换器｜DIGITAL-TO-ANALOG CONVERTER
+* 串口通信｜SERIAL
+* 串联&并联｜SERIAL& PARALLEL
+* 并行通信｜PARALLEL
+
+#### *01.06* Software Engineering Terminology 软件工程术语
+* 软件｜SOFTWARE
+* 程序｜PROGRAM
+* 固件｜FIRMWARE
+* 基本输入输出系统｜BIOS(BASIC INPUT-OUTPUT SYSTEM)
+* 启动管理程序｜BOOTLOADER
+* 操作系统｜OPERATING SYSTEM
+* 应用程序｜APPLICATION
+
+#### *01.07* Arduino
+* Arduino
+* Arduino 开发环境｜ARDUINO IDE开发环境安装｜INSTALLING THE ARDUINO IDE
+* HOW ARDUINO IS OPEN-SOURCING IMAGINATION
+* GNU通用公共许可协议｜General Public License
+* 知识共享许可协议｜Creative Commons license
+* GENUINO vs. ARDUINO
+
+#### *01.08* THE ARDUINO WAY Arduino价值观
+* Prototyping
+*  Tinkering
+*  Patching
+*  Circuit Bending
+*  Hacking Toys
+*  Collaboration
+ 
 ### 02. Digital & Analog Inputs & Outputs
 
 ### 03. Physical Interaction, Sensors & Actuators
