@@ -347,6 +347,29 @@
 *  Collaboration
  
 ### 02. Digital & Analog Inputs & Outputs
+####  *02.01* DIGITAL & ANALOG INPUT & OUTPUT 数字、模拟输入和输出
+* 数字 | DIGITAL
+* 模拟 | ANALOG
+* 输入 | INPUT
+* 输出 | OUTPUT
+* 数字输入 | DIGITAL INPUT
+* 数字输入引脚 | DIGITAL INPUT PINS
+* 0&1号引脚 | PINS 0 (RX) AND 1 (TX)
+* 开关 | SWITCHES
+* 数字输出 | DIGITAL OUTPUT
+* 数字输出引脚 | DIGITAL OUTPUT PINS
+* 模拟输入 | ANALOG INPUT
+* 模拟输入引脚 | ANALOG INPUT PINS
+* 传感器 | SENSORS
+* 模拟输出 | ANALOG OUTPUT
+* 模拟输出引脚 | ANALOG OUTPUT PINS
+
+#### *02.02* PROGRAMMING THE ARDUINO Arduino 编程
+* 数字&模拟输入输出函数 | DIGITAL & ANALOG I0 FUNCTIONS
+* PinMode()
+* digitalRead() & digitalWrite()
+* analogRead()& analogWrite()
+
 
 ### 03. Physical Interaction, Sensors & Actuators
 
