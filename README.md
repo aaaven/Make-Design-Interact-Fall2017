@@ -366,7 +366,7 @@
 
 #### *02.02* PROGRAMMING THE ARDUINO Arduino 编程
 * 数字&模拟输入输出函数 | DIGITAL & ANALOG I0 FUNCTIONS
-* PinMode()
+* pinMode()
 * digitalRead() & digitalWrite()
 * analogRead()& analogWrite()
 
