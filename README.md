@@ -346,7 +346,7 @@
 *  Hacking Toys
 *  Collaboration
  
-### 02. Digital & Analog Inputs & Outputs
+### 02. Digital & Analog Inputs & Outputs 数字、模拟输入和输出
 ####  *02.01* DIGITAL & ANALOG INPUT & OUTPUT 数字、模拟输入和输出
 * 数字 | DIGITAL
 * 模拟 | ANALOG
@@ -371,9 +371,45 @@
 * analogRead()& analogWrite()
 
 
-### 03. Physical Interaction, Sensors & Actuators
+### 03. Physical Interaction, Sensors & Actuators 物理交互、传感器&驱动器
 
-### 04. Serial Communication
+#### *03.01* PHYSICAL INTERACTION 物理交互
+* 物理交互 | PHYSICAL INTERACTION
+* 大脑皮质层对应身体部位图 | HOW OUR BRAINS SENSE OUR BODIES
+* 计算机眼中的人类 | WHAT COMPUTERS THINK OF HUMANS
+* 木镜 | WOODEN MIRROR
+
+#### *03.02* SENSORS 传感器
+* 传感器 | SENSORS
+* 传感器分类 | SENSOR CATEGORIES
+* 声音和震动 | SOUND & VIBRATION
+* 光和辐射 | LIGHT & RADIATION
+* 温度 | TEMPERATURE
+* 位置 | POSITION & PROXIMITY
+* 速度和加速度 | SPEED & ACCELERATION
+* 压力 | PRESSURE & FORCE
+* 化学品和气体 | GAS & CHEMICAL
+* 电和磁 | ELECTRICAL & MAGNETIC
+* 电子元件 | SENSOR COMPONENTS
+* THT封装 | THROUGH HOLE TECHNOLOGY
+* 双列直插封装 | DUAL IN-LINE PACKAGES
+* 贴片 | SURFACE MOUNT TECHNOLOGY
+* 元件选择 | USING COMPONENTS
+* 传感器组件 | BREAKOUT BOARDS
+* 数据&说明 | DATA SHEETS & DOCUMENTATION
+* 数据处理 | SMOOTHING SENSOR VALUES
+
+#### *03.03* ACTUATORS 驱动器
+* 驱动器 | ACTUATORS
+* 线性驱动器 | LINEAR ACTUATORS
+* 旋转驱动器 | ROTARY ACTUATORS
+* 无刷步进电机 | BRUSHLESS STEPPER MOTORS
+* 有刷电机 | BRUSHED MOTORS
+* 舵机 | SERVOS
+* 舵机接线 | SERVO WIRE
+* 舵机控制 | SERVO LIBRARY
+
+### 04. Serial Communication 串口通信
 
 ## Chapter 04: Project Workshops
 ## 第四章：课程项目工作营
