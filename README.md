@@ -409,7 +409,36 @@
 * 舵机接线 | SERVO WIRE
 * 舵机控制 | SERVO LIBRARY
 
-### 04. Serial Communication 串口通信
+### 04.COMMUNICATION BETWEEN PROCESSING& ARDUINO Processing& Arduino通讯
+#### *04.01* COMMUNICATION BETWEEN PROCESSING& ARDUINO Processing& Arduino通讯
+* 可选项 | AVAILABLE SOLUTIONS
+* 优劣对比 | PRONS& CONS
+
+#### *04.02* FIRMATA
+* FIRMATA
+* Arduino Firmata库 | ARDUINO FIRMATA LIBRARY
+* 标准Firmata代码上传 | STANDARD FIRMATA EXAMPLE
+* Processing Firmata库 | PROCESSING FIRMATA LIBRARIY
+
+####  *04.03* MOUSE & KEYBOARD EMULATION 键盘鼠标事件模拟
+* 键盘鼠标事件模拟 | MOUSE & KEYBOARD EMULATION
+* 模拟键盘鼠标的 Arduino | LEONARDO, MICRO & DUE
+* ARDUINO LEONARDO
+* Arduino鼠标库 | ARDUINO MOUSE LIBRARY
+* Arduino键盘库 | ARDUINO KEYBOARD LIBRARY
+
+#### *04.04* SERIAL COMMUNICATION 串口通讯
+* 串口通信 | SERIAL COMMUNICATION
+* 比特&字节 | BITS & BYTES
+* 通用串行总线 | USB
+* 数据速率 | DATA RATE
+* 端口 | PORT
+* 缓冲 | BUFFER
+* 通讯协议 | PROTOCOLS
+* 二进制协议 | BINARY PROTOCOLS
+* Arduino串口通信端口 | ARDUINO SERIAL PORTS
+* Arduino 串口函数 | ARDUINO SERIAL FUNCTIONS
+* Processing串口通信库 | PROCESSING SERIAL LIBRARY
 
 ## Chapter 04: Project Workshops
 ## 第四章：课程项目工作营
