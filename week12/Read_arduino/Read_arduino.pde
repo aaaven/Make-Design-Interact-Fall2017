@@ -6,7 +6,7 @@ Serial arduino;  // create object
 int val;      // store data from the arduino
 
 void setup() {
-  size(200, 200);
+  size(600, 600);
   //check the console and find the prot matches your arduino
   printArray(Serial.list());
   //choose port
@@ -23,7 +23,7 @@ void draw() {
   //do something with the data from arduino
   background(255);             
   fill(val);
-  rect(50, 50, 100, 100);
+  rect(100, 100, 400, 400);
 }
 
 
